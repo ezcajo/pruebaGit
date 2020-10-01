@@ -1,0 +1,4 @@
+Me tome el trabajo de revisar el repositorio maritoRomero47/EducationIT2020 y en el analisis me encontre con los siguientes detalles:
+1- En la clase grabada numero 03 del curso html, del dia 14/09/20 en el minuto 37, el docente plantea a traves de un diagrama de flujo la estructura de ramas que se van a generar en el repositorio de GitHub y la metodologia de trabajo para pushear las codificaciones realizadas de cada participante en sus repositorio locales.
+2- el incoveniente que presenta es que la estrucura de rama no condice con la propuesta del docente algunas de ellas por ejemplo son clone de la rama master y muy pocas son clones de la rama login_proyect_QA.
+3- La solucion antes de comenzar nuevamente con el uso de este repositorio es que cada colaborador se ajuste al diagrama de flujo propuesta por el docente.
